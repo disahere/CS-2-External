@@ -1,7 +1,7 @@
 #  CS-2 External
 CS2 external cheat
  
-## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
+## Library
 
 ## NOTICE
 This source is only used to learn how to systematically code a simple external hack for CS2.
