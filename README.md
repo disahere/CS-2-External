@@ -1,5 +1,4 @@
-##  CS-2 External
-CS2 external cheat
+# CS2 EXTERNAL CHEAT
  
 ## Library
     <PackageReference Include="ClickableTransparentOverlay" Version="6.2.1" />
