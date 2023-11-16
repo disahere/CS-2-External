@@ -19,7 +19,7 @@ This source is only used to learn how to systematically code a simple external h
    - HealthBar + value 
    - Line
    - DOT
-   - Distance
+   - Distance 
 >
 > 2. AIMBOT
    - Aim 
