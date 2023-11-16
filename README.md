@@ -22,7 +22,7 @@ This source is only used to learn how to systematically code a simple external h
    - Distance
 >
 > 2. AIMBOT
-   - Aim
+   - Aim 
    - Closest to crosshair  
 >
 > 3. COLOR
