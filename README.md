@@ -16,7 +16,7 @@ This source is only used to learn how to systematically code a simple external h
 ## Functions
 > 1. ESP 
    - BoxESP 
-   - HealthBar + value
+   - HealthBar + value 
    - Line
    - DOT
    - Distance
