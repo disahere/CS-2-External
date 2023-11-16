@@ -18,7 +18,7 @@ This source is only used to learn how to systematically code a simple external h
    - BoxESP 
    - HealthBar + value 
    - Line
-   - DOT
+   - DOT 
    - Distance 
 >
 > 2. AIMBOT
