@@ -23,7 +23,7 @@ This source is only used to learn how to systematically code a simple external h
 >
 > 2. AIMBOT
    - Aim
-   - Closest to crosshair 
+   - Closest to crosshair  
 >
 > 3. COLOR
    - Variable colors for everything
