@@ -17,7 +17,7 @@ This source is only used to learn how to systematically code a simple external h
 > 1. ESP 
    - BoxESP  
    - HealthBar + value 
-   - Line
+   - Line 
    - DOT   
    - Distance 
 >
